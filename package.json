@@ -1,0 +1,24 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "Does Liri stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenFlowers/liri-node-app.git"
+  },
+  "author": "Kenneth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenFlowers/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/kenFlowers/liri-node-app#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "require": "^2.4.20",
+    "twitter": "^1.7.1"
+  }
+}
